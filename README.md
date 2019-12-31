@@ -2,6 +2,7 @@
 **The Starbound-Proxy**
 ### Start
 There are two environment variables necessary for the usage:<br  />
+
 | Name | Usage |
 |--|--|
 | `STARBOUND_SERVER` | the IP address of the target Starbound server |
