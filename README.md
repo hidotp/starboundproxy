@@ -1,9 +1,11 @@
 ## Rocket
 **The Starbound-Proxy**
 ### Start
-There are two environment variables necessary for the usage:
-`STARBOUND_SERVER` - the IP address of the target Starbound server
-`STARBOUND_PORT` - the port of the target Starbound server
+There are two environment variables necessary for the usage:<br />
+Name | Usage
+------------ | -------------
+`STARBOUND_SERVER` | the IP address of the target Starbound server
+`STARBOUND_PORT` | the port of the target Starbound server
 
 Start through the proxy server through one of the following commands:
 
